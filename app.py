@@ -12,7 +12,6 @@ from flask import Flask, jsonify, request
 
 app = Flask(__name__)
 
-# Replace 'YOUR_API_KEY' with your actual OMDb API key
 API_KEY = 'd8315686'
 BASE_URL = 'http://www.omdbapi.com/'
 

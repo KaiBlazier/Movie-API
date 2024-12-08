@@ -7,3 +7,5 @@
 3. source venv/bin/activate
   # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
+#Usage
+Open your web browser and navigate to http://127.0.0.1:5000/movie?title=MovieTitle to fetch data for a specific movie. Replace MovieTitle with the title of the movie you want to search for.
